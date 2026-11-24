@@ -26,7 +26,7 @@ faculty and university sports events.
 
 | Project | What it is | Stack |
 |---|---|---|
-| **CardioXplain** · FYP, code private | Explainable-AI heart disease risk system. XGBoost model (0.80 AUC on 13,720 unseen records), SHAP factor explanations turned into plain language by an LLM, 250+ automated tests. | React, Flask, MySQL, XGBoost, SHAP, pytest, Vitest |
+| [**CardioXplain**](https://github.com/AkramSyahmi/CardioXplain) · FYP | Explainable-AI heart disease risk system. XGBoost model (0.80 AUC on 13,720 unseen records), SHAP factor explanations turned into plain language by an LLM, 250+ automated tests. | React, Flask, MySQL, XGBoost, SHAP, pytest, Vitest |
 | [**HifzFlow**](https://github.com/AkramSyahmi/hifzflow) · [live](https://hifzflow-phi.vercel.app) | Quran memorisation and murajaah planner. 143 unit tests and 230 SQL assertions, including a row-level-security suite run against real PostgreSQL that found three bugs. | Next.js, TypeScript, Supabase |
 | [**Brewtopia**](https://github.com/AkramSyahmi/Brewtopia) | Barista simulation game for Android. Grand Finale, UMPSA × HUAWEI GameCenter 2026. I built the espresso and milk-steaming gameplay and its tests. | Godot 4, GDScript, Kotlin, Huawei HMS |
 | **SAMS** · team project | Student academic management app. I built the attendance module: session codes, live check-ins, Haversine campus boundary. | Flutter, Laravel 10, MySQL, Sanctum |
