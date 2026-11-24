@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="190" viewBox="0 0 440 190" role="img" aria-label="CardioXplain: Explainable-AI heart disease risk system (UMPSA FYP). React, Flask, XGBoost, SHAP.">
+<style>
+  text{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#e6edf3}
+  .mono{font-family:ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace}
+  .kicker{font-family:ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace;font-size:12px;letter-spacing:2px;fill:#ffd166;font-weight:700}
+  .muted{fill:#9aa4b8}
+  .tw{animation:tw 4s ease-in-out infinite}
+  @keyframes tw{50%{opacity:.1}}
+</style>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0a0f24"/><stop offset="1" stop-color="#05070f"/></linearGradient></defs>
+<rect width="440" height="190" rx="16" fill="url(#bg)"/>
+<circle cx="196.7" cy="53.8" r="0.74" fill="#fff" opacity="0.54" style="animation-delay:-3.6s"/><circle cx="152.2" cy="84.1" r="1.10" fill="#fff" opacity="0.36" style="animation-delay:-1.4s"/><circle cx="149.6" cy="18.4" r="1.22" fill="#fff" opacity="0.37" style="animation-delay:-2.2s"/><circle cx="22.7" cy="92.8" r="0.61" fill="#fff" opacity="0.58" style="animation-delay:-1.9s"/><circle class="tw" cx="294.3" cy="152.9" r="1.21" fill="#fff" opacity="0.64" style="animation-delay:-2.4s"/><circle class="tw" cx="146.4" cy="72.5" r="0.68" fill="#fff" opacity="0.63" style="animation-delay:-1.7s"/><circle cx="408.0" cy="110.6" r="1.08" fill="#fff" opacity="0.44" style="animation-delay:-3.5s"/><circle cx="349.7" cy="121.7" r="0.51" fill="#fff" opacity="0.53" style="animation-delay:-0.2s"/><circle class="tw" cx="318.6" cy="74.5" r="1.11" fill="#fff" opacity="0.42" style="animation-delay:-0.9s"/><circle cx="370.4" cy="6.7" r="0.42" fill="#fff" opacity="0.32" style="animation-delay:-0.8s"/><circle cx="330.8" cy="51.9" r="1.27" fill="#fff" opacity="0.38" style="animation-delay:-3.6s"/><circle cx="112.4" cy="46.6" r="0.41" fill="#fff" opacity="0.30" style="animation-delay:-3.0s"/><circle cx="317.6" cy="78.1" r="0.68" fill="#fff" opacity="0.38" style="animation-delay:-1.9s"/><circle cx="109.8" cy="72.0" r="0.55" fill="#fff" opacity="0.58" style="animation-delay:-1.6s"/><circle class="tw" cx="245.1" cy="172.8" r="0.72" fill="#fff" opacity="0.50" style="animation-delay:-2.9s"/><circle cx="86.7" cy="132.5" r="1.15" fill="#fff" opacity="0.60" style="animation-delay:-3.7s"/><circle cx="21.7" cy="129.8" r="0.40" fill="#fff" opacity="0.66" style="animation-delay:-0.1s"/><circle cx="285.0" cy="50.6" r="0.86" fill="#fff" opacity="0.76" style="animation-delay:-0.9s"/><circle cx="196.2" cy="88.6" r="0.97" fill="#fff" opacity="0.80" style="animation-delay:-0.1s"/>
+<text x="26" y="40" class="kicker">MOON 02</text>
+<text x="26" y="72" font-size="17" font-weight="700" class="mono">CardioXplain</text>
+<text x="26" y="98" font-size="14" style="fill:#c9d1d9">Explainable-AI heart disease risk system</text><text x="26" y="117" font-size="14" style="fill:#c9d1d9">(UMPSA FYP). React, Flask, XGBoost, SHAP.</text>
+<g transform="translate(392,36)"><ellipse rx="26" ry="8" fill="none" stroke="#ffffff55" stroke-width="2"/><circle r="15" fill="#f1e05a" stroke="#ffffff33"/>
+<text text-anchor="middle" dy="4.3" font-size="12.0" font-weight="700" class="mono" style="fill:#1a1a1a">JS</text></g>
+<text x="26" y="168" font-size="12" class="mono muted">★ 0   ⑂ 0   JavaScript</text>
+</svg>

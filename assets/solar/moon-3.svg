@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="190" viewBox="0 0 440 190" role="img" aria-label="MyPetakom: PHP/MySQL web system for PETAKOM events, QR attendance, committees and merit claims.">
+<style>
+  text{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#e6edf3}
+  .mono{font-family:ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace}
+  .kicker{font-family:ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace;font-size:12px;letter-spacing:2px;fill:#ffd166;font-weight:700}
+  .muted{fill:#9aa4b8}
+  .tw{animation:tw 4s ease-in-out infinite}
+  @keyframes tw{50%{opacity:.1}}
+</style>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0a0f24"/><stop offset="1" stop-color="#05070f"/></linearGradient></defs>
+<rect width="440" height="190" rx="16" fill="url(#bg)"/>
+<circle class="tw" cx="30.1" cy="120.1" r="0.67" fill="#fff" opacity="0.44" style="animation-delay:-0.9s"/><circle cx="419.5" cy="156.9" r="0.41" fill="#fff" opacity="0.68" style="animation-delay:-0.8s"/><circle class="tw" cx="433.6" cy="159.5" r="0.83" fill="#fff" opacity="0.69" style="animation-delay:-0.2s"/><circle cx="288.3" cy="187.3" r="0.59" fill="#fff" opacity="0.76" style="animation-delay:-0.9s"/><circle class="tw" cx="344.6" cy="29.9" r="1.04" fill="#fff" opacity="0.47" style="animation-delay:-2.0s"/><circle cx="336.6" cy="170.0" r="1.22" fill="#fff" opacity="0.64" style="animation-delay:-3.2s"/><circle cx="95.6" cy="59.1" r="0.87" fill="#fff" opacity="0.79" style="animation-delay:-3.8s"/><circle cx="283.9" cy="60.5" r="1.22" fill="#fff" opacity="0.37" style="animation-delay:-1.6s"/><circle cx="70.9" cy="129.2" r="1.21" fill="#fff" opacity="0.72" style="animation-delay:-0.0s"/><circle cx="233.3" cy="142.7" r="0.73" fill="#fff" opacity="0.43" style="animation-delay:-0.2s"/><circle class="tw" cx="88.9" cy="123.1" r="0.48" fill="#fff" opacity="0.60" style="animation-delay:-3.7s"/><circle cx="80.6" cy="32.9" r="1.06" fill="#fff" opacity="0.58" style="animation-delay:-1.2s"/><circle class="tw" cx="365.4" cy="139.1" r="1.16" fill="#fff" opacity="0.67" style="animation-delay:-0.1s"/><circle class="tw" cx="291.6" cy="119.8" r="0.60" fill="#fff" opacity="0.50" style="animation-delay:-1.0s"/><circle class="tw" cx="244.5" cy="189.0" r="0.42" fill="#fff" opacity="0.67" style="animation-delay:-2.0s"/><circle class="tw" cx="424.7" cy="110.2" r="1.01" fill="#fff" opacity="0.84" style="animation-delay:-3.2s"/><circle cx="83.0" cy="11.8" r="1.11" fill="#fff" opacity="0.62" style="animation-delay:-2.4s"/><circle cx="310.5" cy="113.6" r="0.93" fill="#fff" opacity="0.38" style="animation-delay:-3.0s"/><circle class="tw" cx="427.7" cy="136.6" r="0.48" fill="#fff" opacity="0.34" style="animation-delay:-3.7s"/>
+<text x="26" y="40" class="kicker">MOON 04</text>
+<text x="26" y="72" font-size="17" font-weight="700" class="mono">MyPetakom</text>
+<text x="26" y="98" font-size="14" style="fill:#c9d1d9">PHP/MySQL web system for PETAKOM events, QR</text><text x="26" y="117" font-size="14" style="fill:#c9d1d9">attendance, committees and merit claims.</text>
+<g transform="translate(392,36)"><ellipse rx="26" ry="8" fill="none" stroke="#ffffff55" stroke-width="2"/><circle r="15" fill="#4F5D95" stroke="#ffffff33"/>
+<text text-anchor="middle" dy="3.3" font-size="9.3" font-weight="700" class="mono" style="fill:#ffffff">PHP</text></g>
+<text x="26" y="168" font-size="12" class="mono muted">★ 0   ⑂ 0   PHP</text>
+</svg>
