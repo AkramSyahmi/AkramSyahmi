@@ -1,8 +1,5 @@
-<h1 align="center">Muhammad Akram Syahmi</h1>
-
 <p align="center">
-  Final-year Software Engineering student at UMPSA · Full-stack, mobile and ML · SAP Certified (Joule Studio)<br>
-  Looking for a 24-week internship, 22 Feb – 7 Aug 2027
+  <img src="assets/header.svg" width="100%" alt="Muhammad Akram Syahmi. Final-year Software Engineering student at UMPSA. Full-stack, mobile and ML. SAP Certified. Open to internships, Feb–Aug 2027.">
 </p>
 
 <p align="center">
