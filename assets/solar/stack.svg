@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="286" viewBox="0 0 900 286" role="img" aria-label="Languages: PHP 25%, GDScript 25%, JavaScript 14%, TypeScript 13%, Python 12%, PLpgSQL 11%">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="286" viewBox="0 0 900 286" role="img" aria-label="Languages: PHP 25%, GDScript 25%, JavaScript 14%, TypeScript 12%, Python 12%, PLpgSQL 12%">
 <style>
   text{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#e6edf3}
   .mono{font-family:ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace}
@@ -24,13 +24,13 @@
 <text text-anchor="middle" dy="3.2" font-size="8.8" font-weight="700" class="mono" style="fill:#1a1a1a">JS</text></g>
 <text x="66" y="151" font-size="15" font-weight="700">JavaScript</text>
 <rect x="230" y="140" width="470" height="12" rx="6" fill="#262c3d"/>
-<rect x="230" y="140" width="259.9" height="12" rx="6" fill="#f1e05a"/>
+<rect x="230" y="140" width="258.7" height="12" rx="6" fill="#f1e05a"/>
 <text x="854" y="151" font-size="13" text-anchor="end" class="mono muted">14%</text><g transform="translate(46,180)"><circle r="11" fill="#3178c6" stroke="#ffffff33"/>
 <text text-anchor="middle" dy="3.2" font-size="8.8" font-weight="700" class="mono" style="fill:#ffffff">TS</text></g>
 <text x="66" y="185" font-size="15" font-weight="700">TypeScript</text>
 <rect x="230" y="174" width="470" height="12" rx="6" fill="#262c3d"/>
-<rect x="230" y="174" width="241.0" height="12" rx="6" fill="#3178c6"/>
-<text x="854" y="185" font-size="13" text-anchor="end" class="mono muted">13%</text><g transform="translate(46,214)"><circle r="11" fill="#3572A5" stroke="#ffffff33"/>
+<rect x="230" y="174" width="231.1" height="12" rx="6" fill="#3178c6"/>
+<text x="854" y="185" font-size="13" text-anchor="end" class="mono muted">12%</text><g transform="translate(46,214)"><circle r="11" fill="#3572A5" stroke="#ffffff33"/>
 <text text-anchor="middle" dy="3.2" font-size="8.8" font-weight="700" class="mono" style="fill:#ffffff">Py</text></g>
 <text x="66" y="219" font-size="15" font-weight="700">Python</text>
 <rect x="230" y="208" width="470" height="12" rx="6" fill="#262c3d"/>
@@ -39,6 +39,6 @@
 <text text-anchor="middle" dy="2.5" font-size="6.8" font-weight="700" class="mono" style="fill:#ffffff">SQL</text></g>
 <text x="66" y="253" font-size="15" font-weight="700">PLpgSQL</text>
 <rect x="230" y="242" width="470" height="12" rx="6" fill="#262c3d"/>
-<rect x="230" y="242" width="211.9" height="12" rx="6" fill="#336790"/>
-<text x="854" y="253" font-size="13" text-anchor="end" class="mono muted">11%</text>
+<rect x="230" y="242" width="223.0" height="12" rx="6" fill="#336790"/>
+<text x="854" y="253" font-size="13" text-anchor="end" class="mono muted">12%</text>
 </svg>
